@@ -15,7 +15,7 @@ const freeMemoryOID = [1, 3, 6, 1, 4, 1, 9, 2, 1, 8, 0] // max 128MB
 const temparatureOID = [1, 3, 6, 1, 4, 1, 9, 9, 13, 1, 3, 1, 3, 1005]
 const cpuUsageOID = [1,3,6,1,4,1,9,2,1,57,0]
 
-const fixTime = 20
+const fixTime = 25
 const nodeNIP = '10.77.8.2'
 const nName = 'Nodeshop'
 const firebaseKey = '-L46xegEleuKcTnJXDjD'
